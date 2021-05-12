@@ -7,3 +7,9 @@
    4. Responding to change over following a plan
 
 [Agile Manifesto](https://warren2lynch.medium.com/how-is-scrum-related-to-agile-manifesto-d1960a1cccba)
+
+## The Four Frames Of Organizations
+   * Structural frame
+   * Human resources frame
+   * Political frame
+   * Symbolic frame
